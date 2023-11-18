@@ -135,6 +135,10 @@ body{
   color: #2681dc;
 }
 
+.hover{
+  cursor: pointer;
+}
+
 ::-webkit-scrollbar{
   display: none;
 }
